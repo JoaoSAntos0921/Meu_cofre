@@ -11,3 +11,7 @@ Projeto de interface segura para armazenar senhas e mensagens.
 
 ## Como Executar
 Clone o repositório e abra `index.html` no navegador.
+
+git add README.md
+git commit -m "Adiciona README.md"
+git push origin main
